@@ -1,0 +1,419 @@
+Age,Gender,Current Academic Year,Current CGPA,most important 2 factors,stress level,experience test anxiety,important to attend class,times of interaction with teacher inside classroom,prefered study time,feel family pressure,dating someone has effect,Study routine,participate in extra-curricular activities,part time job
+23,Female,Fourth Year,3.7,"Time management, Study habits",3,Yes,Yes,5,Early Morning,No,Yes,I study regularly/Weekly.,Yes,None
+24,Female,Fourth Year,3.7,"Time management, Study habits",4,Yes,Yes,5,Early Morning,No,Yes,I study only on the exam week.,Yes,Tuition
+23,Male,Third year,3.1,"Time management, Teacher quality",3,Yes,Yes,1,Late Night,No,No,I study only before the exam night.,Yes,None
+21,Female,Fourth Year,2.7,"Time management, Study habits",4,Yes,No,4,Late Night,Yes,No,I study only on the exam week.,Yes,Tuition
+23,Male,Third year,3.3,"Time management, Study habits",4,No,No,1,Late Night,No,No,I study only on the exam week.,No,"Part Time Job, Business / Freelancing"
+23,Female,Fourth Year,2.7,"Study habits, Teacher quality",4,Yes,Yes,2,Late Night,No,Yes,I study only before the exam night.,Yes,Part Time Job
+24,Male,Third year,3.4,"Time management, Study habits",4,Yes,Yes,4,Late Night,Yes,Yes,I study regularly/Weekly.,Yes,Tuition
+23,Male,Third year,2.6,"Study habits, Teacher quality",5,Yes,Yes,2,Late Night,Yes,No,I study only on the exam week.,Yes,Business / Freelancing
+21,Male,First Year,3,"Time management, Study habits",3,Yes,Yes,5,Late Night,No,Yes,I study only before the exam night.,Yes,Tuition
+20,Female,First Year,3.3,"Teacher quality, Family support",4,Yes,Yes,5,Early Morning,Yes,No,I study only on the exam week.,Yes,None
+18,Female,First Year,3.5,"Time management, Study habits",2,Yes,Yes,3,Late Night,No,No,I study only on the exam week.,Yes,None
+18,Male,First Year,2.8,"Time management, Study habits",4,Yes,No,2,Late Night,Yes,Yes,I study only before the exam night.,Yes,Tuition
+20,Female,First Year,3.4,"Time management, Study habits",5,Yes,Yes,3,Late Night,Yes,Yes,I study only on the exam week.,Yes,"Tuition, Business / Freelancing"
+23,Female,Third year,3.9,"Time management, Study habits",3,Yes,No,3,Late Night,Yes,No,I study only before the exam night.,Yes,Tuition
+19,Female,First Year,2.8,"Time management, Family support",3,Yes,Yes,4,Early Morning,No,Yes,I study only before the exam night.,No,None
+22,Male,Third year,3.8,"Time management, Peer relationships",4,No,No,1,Late Night,No,Yes,I study only on the exam week.,Yes,Tuition
+20,Female,First Year,3.6,"Time management, Study habits",2,Yes,Yes,2,Late Night,Yes,Yes,I study regularly/Weekly.,Yes,Tuition
+22,Female,Third year,3.5,"Time management, Peer relationships",5,Yes,Yes,1,Late Night,Yes,No,I study only on the exam week.,Yes,None
+23,Male,Third year,3.1,"Time management, Study habits",5,Yes,Yes,2,Early Morning,Yes,No,I study only on the exam week.,No,Tuition
+21,Female,Third year,3.7,"Time management, Study habits",5,Yes,No,1,Late Night,Yes,Yes,I study regularly/Weekly.,No,None
+22,Male,Third year,3.6,"Time management, Study habits",2,No,Yes,3,Late Night,No,Yes,I study only on the exam week.,No,None
+23,Male,Fourth Year,3.4,"Time management, Teacher quality",4,Yes,Yes,2,Late Night,No,No,I study only on the exam week.,Yes,None
+20,Male,First Year,3.7,"Time management, Study habits",1,No,No,3,Late Night,No,Yes,I study only before the exam night.,Yes,None
+21,Female,Third year,3.7,"Teacher quality, Peer relationships",5,Yes,No,1,Late Night,Yes,Yes,I study regularly/Weekly.,No,None
+21,Female,Third year,3.5,"Time management, Teacher quality",5,No,Yes,1,Late Night,No,No,I study only before the exam night.,No,None
+23,Male,Third year,3.9,"Time management, Peer relationships",5,No,Yes,5,Early Morning,No,Yes,I study regularly/Weekly.,Yes,Business / Freelancing
+19,Female,First Year,3.4,"Time management, Study habits",5,No,Yes,4,Late Night,Yes,No,I study regularly/Weekly.,Yes,None
+20,Female,Second Year,3.2,"Time management, Study habits",3,Yes,Yes,1,Late Night,No,Yes,I study only before the exam night.,Yes,None
+18,Male,First Year,2.5,"Time management, Study habits",4,Yes,Yes,2,Early Morning,No,No,I study regularly/Weekly.,Yes,None
+18,Male,First Year,2.9,"Time management, Study habits",3,Yes,Yes,3,Early Morning,Yes,Yes,I study only on the exam week.,No,"None, Business / Freelancing"
+19,Male,First Year,3.7,"Time management, Study habits",4,Yes,Yes,2,Early Morning,No,Yes,I study regularly/Weekly.,Yes,None
+19,Female,First Year,3.1,"Time management, Family support",1,No,Yes,1,Early Morning,No,Yes,I study only on the exam week.,Yes,Tuition
+22,Female,Third year,3.7,"Time management, Study habits",3,Yes,Yes,2,Late Night,Yes,No,I study only on the exam week.,No,Part Time Job
+23,Female,Fourth Year,3.8,"Study habits, Peer relationships",4,Yes,No,2,Early Morning,Yes,Yes,I study only on the exam week.,Yes,Business / Freelancing
+24,Female,Third year,3.2,"Time management, Teacher quality",3,Yes,Yes,2,Late Night,Yes,Yes,I study only before the exam night.,No,None
+23,Male,Fourth Year,3,"Time management, Study habits",3,No,Yes,2,Late Night,Yes,No,I study only on the exam week.,Yes,Tuition
+24,Female,More than that,3.1,"Time management, Study habits",5,Yes,Yes,3,Late Night,Yes,Yes,I study only before the exam night.,Yes,None
+24,Male,Fourth Year,3.4,"Time management, Study habits",4,Yes,Yes,3,Early Morning,No,No,I study only on the exam week.,Yes,None
+20,Male,First Year,3.8,"Time management, Study habits",3,No,Yes,3,Early Morning,No,No,I study regularly/Weekly.,Yes,None
+20,Female,First Year,3.2,"Time management, Study habits",3,Yes,Yes,1,Late Night,Yes,No,I study only before the exam night.,No,None
+21,Male,First Year,2.5,"Time management, Study habits",4,Yes,Yes,3,Late Night,No,No,I study only on the exam week.,Yes,None
+20,Female,First Year,3.5,"Time management, Study habits",4,No,Yes,4,Early Morning,No,Yes,I study regularly/Weekly.,No,None
+24,Male,Third year,2.9,"Time management, Peer relationships",2,Yes,Yes,3,Early Morning,No,Yes,I study only on the exam week.,Yes,Tuition
+20,Male,First Year,3.6,"Study habits, Teacher quality",2,Yes,Yes,1,Late Night,Yes,No,I study only on the exam week.,Yes,Business / Freelancing
+18,Female,First Year,3.5,"Time management, Teacher quality",3,No,Yes,4,Late Night,Yes,Yes,I study only on the exam week.,Yes,None
+18,Female,First Year,3.8,"Study habits, Teacher quality",2,Yes,Yes,4,Early Morning,No,No,I study regularly/Weekly.,No,None
+26,Male,More than that,3.8,"Time management, Study habits",4,Yes,Yes,3,Late Night,No,No,I study regularly/Weekly.,Yes,Tuition
+25,Male,More than that,2.8,"Study habits, Teacher quality",3,Yes,Yes,2,Late Night,Yes,Yes,I study only on the exam week.,Yes,Part Time Job
+20,Male,First Year,2.8,"Time management, Study habits",5,Yes,Yes,4,Late Night,No,Yes,I study only before the exam night.,Yes,None
+19,Female,First Year,3,"Study habits, Peer relationships",3,No,Yes,3,Early Morning,Yes,Yes,I study only on the exam week.,Yes,None
+18,Female,First Year,2.5,"Study habits, Family support",5,Yes,Yes,3,Early Morning,Yes,No,I study only on the exam week.,No,None
+20,Male,First Year,3.4,"Time management, Study habits",3,Yes,Yes,2,Early Morning,Yes,Yes,I study regularly/Weekly.,Yes,None
+20,Female,First Year,3.7,"Time management, Study habits",4,Yes,Yes,3,Late Night,Yes,Yes,I study regularly/Weekly.,Yes,None
+19,Female,First Year,3.3,"Time management, Peer relationships",2,Yes,Yes,3,Late Night,No,Yes,I study only on the exam week.,No,Tuition
+21,Male,First Year,3.4,"Time management, Family support",4,Yes,Yes,2,Late Night,Yes,Yes,I study only before the exam night.,Yes,Tuition
+21,Female,First Year,3.5,"Time management, Study habits",1,Yes,Yes,1,Early Morning,Yes,Yes,I study regularly/Weekly.,Yes,Business / Freelancing
+22,Female,Second Year,3.8,"Time management, Study habits",4,Yes,Yes,4,Late Night,No,Yes,I study regularly/Weekly.,Yes,Business / Freelancing
+21,Male,Second Year,3.8,"Time management, Peer relationships",4,Yes,Yes,4,Late Night,No,No,I study regularly/Weekly.,Yes,Business / Freelancing
+20,Female,First Year,3,"Time management, Peer relationships",3,Yes,Yes,4,Late Night,No,No,I study regularly/Weekly.,No,None
+22,Female,Second Year,3.6,"Time management, Teacher quality",4,Yes,Yes,5,Early Morning,Yes,Yes,I study regularly/Weekly.,Yes,Tuition
+22,Male,First Year,3.1,"Time management, Study habits",1,No,Yes,1,Early Morning,Yes,No,I study only on the exam week.,No,None
+23,Male,Third year,3.6,"Teacher quality, Peer relationships",5,Yes,No,3,Late Night,Yes,No,I study only on the exam week.,Yes,"Tuition, Business / Freelancing"
+23,Female,Third year,3.4,"Time management, Family support",3,Yes,Yes,4,Late Night,No,No,I study only on the exam week.,Yes,Tuition
+22,Male,Second Year,3.5,"Time management, Teacher quality",3,Yes,Yes,4,Late Night,Yes,No,I study only on the exam week.,Yes,"Tuition, Part Time Job"
+23,Female,Third year,3.8,"Time management, Study habits",3,Yes,Yes,4,Late Night,Yes,No,I study only on the exam week.,No,Research Assistant 
+22,Female,Third year,3.5,"Study habits, Teacher quality",4,No,Yes,3,Late Night,Yes,No,I study only on the exam week.,Yes,Tuition
+20,Female,Second Year,3.6,"Study habits, Teacher quality",2,No,Yes,1,Late Night,No,No,I study only on the exam week.,Yes,None
+22,Male,Second Year,3.2,"Study habits, Teacher quality",5,Yes,No,3,Late Night,Yes,No,I study only on the exam week.,Yes,None
+21,Female,Second Year,3.8,"Time management, Study habits",3,Yes,Yes,2,Late Night,Yes,No,I study regularly/Weekly.,Yes,"Tuition, Business / Freelancing"
+20,Male,Second Year,3.2,"Time management, Study habits",5,No,Yes,5,Late Night,No,No,I study only before the exam night.,No,Tuition
+22,Male,Fourth Year,3.6,"Time management, Study habits",4,No,Yes,3,Late Night,Yes,No,I study only on the exam week.,Yes,None
+22,Female,Third year,3.3,"Time management, Study habits",4,Yes,Yes,1,Late Night,Yes,No,I study only on the exam week.,Yes,Tuition
+20,Male,Second Year,3.1,"Time management, Study habits",5,Yes,Yes,1,Late Night,No,No,I study only before the exam night.,Yes,Tuition
+22,Male,Third year,3.2,"Time management, Study habits",5,Yes,Yes,3,Late Night,Yes,No,I study only on the exam week.,Yes,"Part Time Job, "
+23,Female,Second Year,3.7,"Study habits, Peer relationships",4,Yes,Yes,1,Late Night,No,Yes,I study only on the exam week.,No,Tuition
+22,Male,Second Year,3.8,"Time management, Teacher quality",4,Yes,Yes,2,Late Night,Yes,No,I study regularly/Weekly.,No,None
+24,Female,Fourth Year,2.9,"Time management, Study habits",3,Yes,Yes,2,Late Night,Yes,No,I study only on the exam week.,Yes,Tuition
+22,Male,First Year,3.8,"Time management, Family support",4,No,No,1,Late Night,No,No,I study only before the exam night.,No,"Tuition, Business / Freelancing"
+19,Male,Second Year,3.6,"Time management, Study habits",3,Yes,Yes,3,Early Morning,No,Yes,I study only on the exam week.,No,None
+21,Female,Second Year,3.9,"Time management, Peer relationships",4,Yes,No,2,Late Night,No,Yes,I study regularly/Weekly.,Yes,Tuition
+23,Female,Third year,3.2,"Time management, Study habits",5,Yes,Yes,1,Late Night,Yes,Yes,I study only on the exam week.,Yes,Tuition
+23,Male,Fourth Year,3.7,"Time management, Peer relationships",3,Yes,Yes,2,Early Morning,No,Yes,I study only on the exam week.,No,Tuition
+22,Male,Second Year,2.8,"Time management, Study habits",5,Yes,Yes,3,Late Night,Yes,No,I study only on the exam week.,Yes,None
+23,Male,Second Year,3.8,"Study habits, Teacher quality",3,No,No,1,Late Night,No,Yes,I study only on the exam week.,No,None
+21,Male,First Year,3.6,"Time management, Teacher quality",3,Yes,Yes,1,Late Night,No,No,I study only on the exam week.,Yes,Tuition
+22,Male,Second Year,3.4,"Time management, Study habits",4,Yes,Yes,1,Early Morning,No,No,I study regularly/Weekly.,No,None
+21,Male,First Year,3.6,"Time management, Teacher quality",4,Yes,No,2,Early Morning,No,No,I study regularly/Weekly.,No,None
+22,Male,Third year,3.5,"Time management, Study habits",3,Yes,Yes,1,Late Night,Yes,Yes,I study only before the exam night.,Yes,Tuition
+21,Male,First Year,3.4,"Study habits, Teacher quality",4,Yes,Yes,1,Early Morning,No,Yes,I study only on the exam week.,No,None
+21,Male,First Year,3.8,"Time management, Study habits",4,Yes,No,2,Early Morning,Yes,No,I study regularly/Weekly.,No,Tuition
+23,Male,Second Year,3.5,"Time management, Teacher quality",4,Yes,Yes,3,Late Night,Yes,Yes,I study only on the exam week.,Yes,"Tuition, Business / Freelancing"
+28,Male,More than that,3.4,"Time management, Study habits",5,Yes,Yes,3,Early Morning,Yes,Yes,I study only on the exam week.,No,"Tuition, Part Time Job"
+22,Male,Second Year,3.5,"Time management, Study habits",3,Yes,No,1,Late Night,No,Yes,I study only on the exam week.,Yes,Tuition
+20,Female,Second Year,3.5,"Time management, Study habits",3,Yes,Yes,3,Late Night,Yes,No,I study regularly/Weekly.,Yes,Tuition
+22,Male,Third year,3.4,"Time management, Study habits",3,Yes,Yes,2,Late Night,No,No,I study regularly/Weekly.,No,Tuition
+23,Male,Fourth Year,3.7,"Time management, Study habits",5,No,Yes,1,Late Night,No,No,I study only before the exam night.,Yes,None
+20,Male,Second Year,3.7,"Time management, Study habits",3,No,Yes,2,Late Night,Yes,Yes,I study regularly/Weekly.,Yes,Tuition
+22,Female,Third year,3.8,"Time management, Study habits",5,Yes,Yes,1,Early Morning,No,No,I study regularly/Weekly.,Yes,Tuition
+21,Male,Second Year,3.5,"Time management, Teacher quality",2,No,Yes,4,Early Morning,Yes,Yes,I study only on the exam week.,Yes,Tuition
+22,Female,Fourth Year,3.5,"Time management, Teacher quality",4,Yes,Yes,3,Late Night,No,Yes,I study regularly/Weekly.,No,None
+21,Female,First Year,3.9,"Study habits, Teacher quality",4,Yes,Yes,1,Late Night,No,No,I study regularly/Weekly.,Yes,Tuition
+24,Female,Third year,2.6,"Study habits, Teacher quality",1,Yes,Yes,2,Early Morning,Yes,Yes,I study regularly/Weekly.,No,None
+19,Male,Second Year,3.8,"Study habits, Teacher quality",3,No,No,3,Early Morning,No,Yes,I study regularly/Weekly.,No,Tuition
+24,Male,Third year,3.9,"Time management, Peer relationships",4,No,Yes,5,Early Morning,No,Yes,I study only on the exam week.,Yes,Tuition
+22,Male,Second Year,3.9,"Time management, Peer relationships",5,No,No,1,Late Night,No,Yes,I study only on the exam week.,Yes,"Tuition, The spelling is Tuition btw"
+21,Female,Second Year,3.5,"Time management, Study habits",4,Yes,Yes,1,Early Morning,No,Yes,I study regularly/Weekly.,No,Business / Freelancing
+24,Female,Third year,2.6,"Study habits, Teacher quality",5,Yes,Yes,4,Early Morning,Yes,Yes,I study regularly/Weekly.,No,None
+23,Male,Fourth Year,3.4,"Time management, Study habits",4,Yes,Yes,1,Late Night,No,No,I study only on the exam week.,No,Tuition
+25,Female,Fourth Year,3.5,"Study habits, Peer relationships",5,Yes,Yes,5,Early Morning,Yes,Yes,I study only before the exam night.,No,None
+20,Female,Second Year,3.9,"Time management, Study habits",4,No,Yes,2,Late Night,Yes,No,I study only on the exam week.,Yes,None
+20,Male,Second Year,3,"Study habits, Teacher quality",4,Yes,Yes,2,Late Night,Yes,No,I study only on the exam week.,Yes,None
+22,Male,Third year,3.7,"Time management, Study habits",5,Yes,Yes,4,Early Morning,No,Yes,I study regularly/Weekly.,Yes,"Part Time Job, Business / Freelancing"
+21,Male,Second Year,3.6,"Time management, Family support",5,Yes,Yes,1,Late Night,Yes,Yes,I study only before the exam night.,No,Tuition
+24,Male,Fourth Year,3.6,"Time management, Study habits",3,Yes,Yes,5,Late Night,Yes,No,I study only on the exam week.,Yes,Business / Freelancing
+22,Female,Third year,3.5,"Time management, Study habits",3,Yes,Yes,3,Late Night,No,Yes,I study regularly/Weekly.,Yes,Business / Freelancing
+21,Male,Second Year,3.1,"Time management, Teacher quality",2,Yes,Yes,3,Late Night,Yes,No,I study regularly/Weekly.,No,None
+21,Male,Second Year,3.2,"Time management, Study habits",5,Yes,Yes,1,Late Night,Yes,Yes,I study only before the exam night.,Yes,Tuition
+22,Male,Fourth Year,3.7,"Study habits, Teacher quality",4,Yes,No,3,Late Night,Yes,Yes,I study only before the exam night.,Yes,None
+22,Female,Third year,3.5,"Time management, Family support",5,Yes,Yes,4,Late Night,Yes,Yes,I study regularly/Weekly.,Yes,None
+24,Female,Fourth Year,3.8,"Time management, Study habits",3,Yes,No,1,Late Night,No,No,I study only on the exam week.,No,None
+24,Female,More than that,3.7,"Time management, Study habits",4,Yes,Yes,1,Late Night,No,No,I study only on the exam week.,No,"Tuition, Part Time Job"
+21,Male,Second Year,2.5,"Time management, Study habits",4,Yes,Yes,3,Late Night,Yes,No,I study regularly/Weekly.,Yes,Tuition
+20,Male,Second Year,2.5,"Time management, Study habits",5,No,Yes,1,Late Night,No,Yes,I study only before the exam night.,No,Tuition
+20,Male,First Year,3.8,"Time management, Study habits",4,No,Yes,2,Late Night,Yes,Yes,I study only before the exam night.,Yes,None
+24,Male,Fourth Year,3,"Time management, Teacher quality",3,No,No,5,Late Night,No,No,I study regularly/Weekly.,Yes,Tuition
+20,Male,First Year,3.7,"Time management, Study habits",4,No,No,1,Early Morning,No,No,I study only on the exam week.,No,Tuition
+23,Male,Third year,3.4,"Study habits, Teacher quality",4,No,Yes,3,Late Night,No,No,I study only on the exam week.,Yes,Tuition
+23,Female,Second Year,3.6,"Study habits, Peer relationships",4,Yes,Yes,4,Late Night,No,No,I study only on the exam week.,No,None
+20,Male,First Year,3.5,"Time management, Study habits",5,No,Yes,1,Late Night,No,Yes,I study regularly/Weekly.,No,None
+25,Female,Fourth Year,3.1,"Time management, Study habits",5,Yes,Yes,1,Late Night,Yes,Yes,I study only on the exam week.,No,"Part Time Job, Business / Freelancing"
+20,Male,First Year,3.1,"Time management, Study habits",4,Yes,Yes,1,Late Night,No,No,I study only on the exam week.,Yes,None
+22,Female,Second Year,3,"Study habits, Teacher quality",4,Yes,Yes,3,Early Morning,Yes,Yes,I study regularly/Weekly.,No,Tuition
+23,Female,Third year,2.8,"Study habits, Family support",5,Yes,Yes,3,Late Night,Yes,Yes,I study only before the exam night.,No,Tuition
+23,Male,Fourth Year,3.9,"Study habits, Peer relationships",5,Yes,Yes,2,Early Morning,Yes,No,I study regularly/Weekly.,No,Tuition
+23,Female,Second Year,3.4,"Time management, Study habits",5,Yes,Yes,2,Late Night,Yes,Yes,I study regularly/Weekly.,No,None
+20,Female,First Year,3.6,"Time management, Teacher quality",4,Yes,Yes,2,Early Morning,Yes,No,I study only on the exam week.,Yes,Tuition
+21,Male,Second Year,3.7,"Time management, Teacher quality",3,No,Yes,2,Late Night,No,No,I study only before the exam night.,No,None
+24,Male,Fourth Year,3.5,"Study habits, Family support",5,No,Yes,5,Late Night,Yes,Yes,I study only on the exam week.,No,Tuition
+20,Female,Second Year,2.5,"Time management, Study habits",4,No,Yes,2,Late Night,Yes,Yes,I study only on the exam week.,No,None
+19,Female,First Year,4,"Teacher quality, Peer relationships",5,Yes,Yes,1,Late Night,No,No,I study only on the exam week.,Yes,None
+22,Male,First Year,3.2,"Study habits, Teacher quality",5,Yes,Yes,3,Early Morning,Yes,Yes,I study regularly/Weekly.,Yes,"None, Tuition"
+20,Female,First Year,3.7,"Time management, Teacher quality",5,Yes,Yes,5,Late Night,Yes,Yes,I study regularly/Weekly.,Yes,None
+23,Male,Second Year,3.5,"Time management, Study habits",3,No,Yes,5,Early Morning,Yes,No,I study regularly/Weekly.,Yes,Part Time Job
+22,Male,Second Year,3.6,"Time management, Study habits",5,Yes,Yes,1,Early Morning,Yes,Yes,I study only on the exam week.,No,Tuition
+22,Female,Second Year,2.6,"Time management, Study habits",2,Yes,Yes,2,Late Night,Yes,Yes,I study only on the exam week.,No,"Tuition, Business / Freelancing"
+22,Male,Second Year,3.1,"Time management, Study habits",4,Yes,Yes,3,Early Morning,Yes,Yes,I study only on the exam week.,No,Tuition
+22,Male,Third year,3.5,"Time management, Study habits",4,Yes,Yes,3,Early Morning,Yes,Yes,I study only on the exam week.,No,None
+21,Male,First Year,3.8,"Study habits, Teacher quality",3,Yes,No,1,Early Morning,No,Yes,I study only on the exam week.,No,Tuition
+22,Female,Third year,3.4,"Time management, Teacher quality",5,Yes,Yes,3,Late Night,Yes,Yes,I study regularly/Weekly.,Yes,None
+23,Male,Third year,3,"Time management, Study habits",4,Yes,Yes,2,Early Morning,No,No,I study regularly/Weekly.,Yes,None
+22,Male,Third year,3.3,"Time management, Teacher quality",5,Yes,Yes,3,Early Morning,No,No,I study only before the exam night.,Yes,None
+24,Female,Third year,3.5,"Time management, Study habits",5,Yes,No,3,Late Night,No,No,I study only on the exam week.,Yes,Tuition
+24,Male,Third year,3.8,"Time management, Study habits",5,Yes,Yes,3,Late Night,No,No,I study regularly/Weekly.,Yes,"Tuition, Part Time Job"
+22,Male,Third year,3.6,"Time management, Teacher quality",4,Yes,No,3,Late Night,Yes,No,I study only on the exam week.,Yes,Tuition
+24,Male,Second Year,3.7,"Time management, Peer relationships",5,Yes,Yes,4,Late Night,No,Yes,I study only before the exam night.,Yes,Business / Freelancing
+24,Male,Second Year,2.2,"Time management, Study habits",3,Yes,Yes,2,Late Night,Yes,No,I study only on the exam week.,No,None
+23,Male,Second Year,3.3,"Study habits, Teacher quality",4,Yes,Yes,5,Late Night,No,Yes,I study only before the exam night.,Yes,None
+23,Male,First Year,3.4,"Time management, Study habits",3,No,Yes,3,Late Night,No,No,I study regularly/Weekly.,Yes,Business / Freelancing
+22,Male,Third year,3,"Time management, Study habits",4,Yes,Yes,5,Late Night,Yes,Yes,I study only on the exam week.,Yes,"Tuition, Business / Freelancing"
+20,Male,First Year,3.7,"Time management, Peer relationships",4,No,Yes,1,Late Night,No,Yes,I study only on the exam week.,Yes,Tuition
+23,Male,Second Year,3.2,"Study habits, Teacher quality",5,Yes,Yes,3,Late Night,No,Yes,I study regularly/Weekly.,No,Tuition
+23,Female,Fourth Year,3.6,"Family support, Peer relationships",4,Yes,No,4,Late Night,No,Yes,I study regularly/Weekly.,Yes,"Tuition, Part Time Job"
+22,Female,First Year,3.1,"Study habits, Teacher quality",3,No,Yes,3,Late Night,No,Yes,I study only on the exam week.,Yes,None
+24,Male,Fourth Year,3.2,"Time management, Teacher quality",5,Yes,No,1,Early Morning,Yes,Yes,I study only on the exam week.,Yes,Tuition
+21,Male,First Year,3.1,"Time management, Study habits",4,Yes,Yes,4,Early Morning,Yes,No,I study regularly/Weekly.,Yes,Part Time Job
+21,Male,First Year,3.1,"Time management, Study habits",4,Yes,Yes,3,Late Night,Yes,No,I study only before the exam night.,No,Tuition
+21,Male,Second Year,3.8,"Time management, Study habits",4,Yes,Yes,3,Early Morning,Yes,No,I study only on the exam week.,No,Tuition
+21,Male,First Year,3.7,"Time management, Teacher quality",3,Yes,No,1,Late Night,No,No,I study only on the exam week.,Yes,Tuition
+23,Female,Third year,3.1,"Study habits, Teacher quality",5,Yes,Yes,1,Late Night,No,No,I study only before the exam night.,No,None
+21,Male,First Year,3.3,"Time management, Peer relationships",5,Yes,Yes,2,Late Night,No,No,I study only before the exam night.,No,Tuition
+24,Male,Fourth Year,2.6,"Time management, Study habits",3,Yes,Yes,3,Late Night,Yes,No,I study only before the exam night.,Yes,None
+23,Male,Third year,2.5,"Time management, Study habits",4,Yes,Yes,4,Early Morning,Yes,Yes,I study only on the exam week.,No,Tuition
+23,Male,Fourth Year,3.9,"Time management, Teacher quality",5,Yes,Yes,4,Late Night,No,Yes,I study regularly/Weekly.,No,Tuition
+20,Male,First Year,3.5,"Time management, Study habits",2,Yes,Yes,4,Late Night,Yes,Yes,I study only on the exam week.,Yes,Tuition
+21,Female,First Year,4,"Time management, Study habits",5,Yes,No,2,Late Night,Yes,Yes,I study only on the exam week.,No,Tuition
+23,Male,More than that,3.9,"Study habits, Teacher quality",3,Yes,Yes,4,Late Night,No,Yes,I study regularly/Weekly.,Yes,Full time job
+20,Female,First Year,2.6,"Study habits, Family support",5,Yes,Yes,2,Late Night,Yes,Yes,I study regularly/Weekly.,No,Tuition
+21,Female,First Year,3.5,"Time management, Teacher quality",4,Yes,Yes,1,Late Night,No,Yes,I study only on the exam week.,Yes,Tuition
+22,Male,Second Year,3.4,"Time management, Study habits",2,Yes,Yes,3,Late Night,Yes,Yes,I study only on the exam week.,Yes,None
+22,Male,Second Year,3.9,"Study habits, Teacher quality",5,Yes,Yes,4,Late Night,Yes,Yes,I study regularly/Weekly.,Yes,None
+21,Female,First Year,3.3,"Time management, Study habits",5,Yes,Yes,2,Early Morning,Yes,Yes,I study only before the exam night.,No,None
+22,Male,Second Year,3,"Study habits, Teacher quality",4,Yes,No,3,Late Night,No,Yes,I study only on the exam week.,No,None
+23,Male,Third year,3.5,"Time management, Study habits",3,Yes,Yes,5,Late Night,Yes,Yes,I study only on the exam week.,Yes,Tuition
+22,Male,Second Year,3.7,"Time management, Study habits",5,Yes,Yes,5,Late Night,No,Yes,I study regularly/Weekly.,Yes,None
+22,Male,Second Year,3.3,"Time management, Teacher quality",5,Yes,Yes,1,Late Night,No,Yes,I study regularly/Weekly.,No,None
+23,Female,Third year,3.1,"Time management, Family support",4,Yes,Yes,1,Early Morning,Yes,No,I study only on the exam week.,No,Tuition
+21,Female,First Year,3.5,"Time management, Study habits",3,No,Yes,3,Late Night,No,No,I study regularly/Weekly.,No,None
+25,Male,Fourth Year,3.5,"Teacher quality, Family support",5,No,No,5,Early Morning,No,No,I study regularly/Weekly.,Yes,Part Time Job
+23,Female,Third year,3.8,"Time management, Study habits",5,Yes,No,4,Late Night,Yes,Yes,I study only on the exam week.,Yes,None
+20,Female,First Year,2.7,"Time management, Study habits",4,Yes,Yes,3,Early Morning,Yes,No,I study regularly/Weekly.,Yes,None
+21,Female,Second Year,2.7,"Time management, Family support",5,Yes,Yes,3,Late Night,No,No,I study regularly/Weekly.,Yes,None
+20,Female,Second Year,3.6,"Time management, Teacher quality",3,Yes,Yes,4,Late Night,No,No,I study only on the exam week.,No,None
+24,Male,More than that,2.7,"Time management, Teacher quality",4,Yes,Yes,2,Late Night,No,Yes,I study only on the exam week.,Yes,Part Time Job
+22,Male,Third year,2.8,"Study habits, Family support",5,Yes,Yes,2,Early Morning,Yes,No,I study only on the exam week.,Yes,Govt. Job
+24,Male,Third year,3.1,"Study habits, Teacher quality",4,Yes,Yes,2,Late Night,No,No,I study regularly/Weekly.,Yes,None
+25,Male,Fourth Year,3,"Time management, Family support",3,Yes,Yes,3,Late Night,Yes,Yes,I study only on the exam week.,Yes,None
+24,Male,Fourth Year,3,"Study habits, Teacher quality",5,Yes,Yes,3,Late Night,Yes,Yes,I study only on the exam week.,Yes,Tuition
+21,Female,First Year,3.3,"Study habits, Peer relationships",5,Yes,Yes,1,Late Night,Yes,Yes,I study only before the exam night.,No,None
+26,Female,Fourth Year,3.1,"Time management, Study habits",5,Yes,Yes,2,Late Night,No,No,I study only on the exam week.,Yes,Business / Freelancing
+21,Female,Second Year,3.9,"Study habits, Teacher quality",4,Yes,Yes,4,Late Night,Yes,No,I study only before the exam night.,No,None
+20,Male,Second Year,3.2,"Time management, Study habits",4,Yes,Yes,2,Late Night,No,No,I study only before the exam night.,No,None
+23,Male,Second Year,3.1,"Time management, Teacher quality",4,Yes,Yes,5,Early Morning,Yes,No,I study regularly/Weekly.,Yes,Tuition
+22,Female,Third year,2.8,"Time management, Study habits",3,Yes,Yes,3,Late Night,Yes,No,I study only on the exam week.,Yes,"None, Tuition"
+26,Male,More than that,3.2,"Study habits, Family support",3,No,Yes,3,Late Night,No,Yes,I study only on the exam week.,No,Tuition
+21,Female,First Year,3.2,"Study habits, Peer relationships",4,Yes,Yes,3,Late Night,Yes,No,I study only on the exam week.,No,None
+22,Female,Second Year,3.9,"Time management, Peer relationships",3,No,Yes,2,Early Morning,No,No,I study only on the exam week.,No,None
+29,Male,More than that,3.9,"Time management, Teacher quality",5,Yes,Yes,1,Early Morning,No,Yes,I study only on the exam week.,Yes,Business / Freelancing
+23,Male,Fourth Year,3.6,"Time management, Study habits",3,Yes,Yes,3,Late Night,No,No,I study only on the exam week.,Yes,None
+21,Male,Second Year,3.4,"Time management, Teacher quality",3,Yes,Yes,4,Early Morning,Yes,Yes,I study only on the exam week.,Yes,Tuition
+21,Female,Second Year,2.8,"Study habits, Teacher quality",5,Yes,Yes,2,Late Night,Yes,Yes,I study only on the exam week.,Yes,None
+21,Female,Third year,3.4,"Time management, Family support",3,No,Yes,4,Early Morning,No,No,I study regularly/Weekly.,Yes,Tuition
+22,Female,Second Year,3.6,"Study habits, Teacher quality",4,Yes,Yes,2,Late Night,No,Yes,I study only before the exam night.,Yes,None
+22,Male,Second Year,3.9,"Time management, Family support",4,No,Yes,4,Late Night,Yes,Yes,I study regularly/Weekly.,Yes,None
+19,Male,Second Year,3,"Time management, Teacher quality",4,Yes,Yes,5,Late Night,No,No,I study regularly/Weekly.,Yes,None
+22,Male,First Year,2.8,"Time management, Study habits",4,Yes,Yes,2,Late Night,Yes,No,I study only on the exam week.,Yes,None
+21,Male,First Year,3.5,"Time management, Teacher quality",4,Yes,Yes,3,Early Morning,Yes,Yes,I study regularly/Weekly.,Yes,None
+22,Female,Second Year,4,"Time management, Teacher quality",4,Yes,Yes,5,Early Morning,No,Yes,I study regularly/Weekly.,Yes,Tuition
+26,Female,Third year,2.8,"Time management, Family support",4,Yes,Yes,5,Early Morning,Yes,No,I study regularly/Weekly.,Yes,Tuition
+24,Male,Fourth Year,3.1,"Time management, Teacher quality",5,Yes,Yes,4,Early Morning,No,Yes,I study regularly/Weekly.,No,None
+24,Male,First Year,3.7,"Time management, Study habits",3,Yes,Yes,3,Early Morning,Yes,Yes,I study only on the exam week.,No,None
+22,Female,Second Year,3.6,"Time management, Teacher quality",4,Yes,No,1,Early Morning,Yes,Yes,I study regularly/Weekly.,Yes,None
+22,Male,Third year,3.9,"Time management, Family support",2,No,Yes,5,Early Morning,No,No,I study regularly/Weekly.,Yes,None
+19,Male,First Year,4,"Time management, Study habits",5,Yes,Yes,4,Late Night,No,Yes,I study only before the exam night.,No,Tuition
+21,Female,First Year,3.6,"Time management, Study habits",3,Yes,Yes,1,Late Night,Yes,No,I study only on the exam week.,No,None
+24,Male,Third year,3.7,"Teacher quality, Family support",3,Yes,Yes,5,Early Morning,No,Yes,I study regularly/Weekly.,No,None
+23,Male,Fourth Year,3.8,"Study habits, Teacher quality",4,Yes,Yes,4,Early Morning,No,No,I study only on the exam week.,Yes,"Tuition, Part Time Job"
+22,Male,First Year,3,"Time management, Teacher quality",4,Yes,Yes,3,Early Morning,No,Yes,I study only on the exam week.,No,None
+24,Female,Fourth Year,3.4,"Time management, Teacher quality",4,Yes,Yes,2,Late Night,No,No,I study only on the exam week.,Yes,Tuition
+24,Male,Fourth Year,3.1,"Time management, Family support",5,Yes,Yes,3,Late Night,No,Yes,I study regularly/Weekly.,No,None
+23,Female,Third year,3.1,"Teacher quality, Family support",4,Yes,Yes,3,Late Night,No,Yes,I study regularly/Weekly.,Yes,Tuition
+21,Male,Second Year,3.3,"Time management, Teacher quality",5,Yes,Yes,3,Late Night,Yes,Yes,I study only before the exam night.,Yes,Tuition
+23,Male,Third year,3.7,"Study habits, Family support",5,No,Yes,5,Late Night,No,No,I study regularly/Weekly.,No,None
+22,Female,Fourth Year,3.6,"Time management, Family support",3,Yes,Yes,4,Late Night,No,Yes,I study regularly/Weekly.,Yes,None
+24,Female,Fourth Year,3,"Study habits, Teacher quality",5,Yes,Yes,3,Early Morning,Yes,No,I study only on the exam week.,Yes,I'm a full time mother
+23,Male,First Year,3.3,"Time management, Study habits",3,No,Yes,3,Early Morning,No,No,I study only on the exam week.,Yes,None
+22,Female,Third year,3.8,"Time management, Teacher quality",4,Yes,Yes,2,Late Night,Yes,No,I study only on the exam week.,No,Tuition
+24,Female,Third year,3.7,"Study habits, Peer relationships",5,Yes,Yes,4,Late Night,No,Yes,I study only on the exam week.,No,Tuition
+22,Male,Fourth Year,3,"Time management, Teacher quality",3,Yes,Yes,1,Early Morning,No,Yes,I study only on the exam week.,No,None
+24,Male,Third year,3.4,"Time management, Study habits",3,Yes,Yes,4,Late Night,Yes,No,I study only on the exam week.,No,Tuition
+22,Female,Third year,3.6,"Study habits, Teacher quality",3,Yes,Yes,5,Early Morning,No,No,I study only on the exam week.,Yes,Tuition
+20,Female,First Year,3.8,"Time management, Study habits",2,No,Yes,4,Late Night,No,No,I study only on the exam week.,No,Tuition
+22,Female,Third year,3.8,"Study habits, Teacher quality",4,Yes,Yes,3,Late Night,No,Yes,I study only on the exam week.,Yes,Tuition
+24,Male,Third year,3.4,"Time management, Study habits",5,Yes,Yes,5,Late Night,No,Yes,I study only before the exam night.,No,None
+21,Male,Second Year,3.8,"Time management, Study habits",4,Yes,Yes,5,Late Night,Yes,Yes,I study regularly/Weekly.,Yes,Tuition
+24,Female,Fourth Year,3.5,"Study habits, Family support",4,Yes,Yes,1,Late Night,No,Yes,I study only on the exam week.,No,None
+22,Female,Second Year,3.6,"Time management, Study habits",5,Yes,No,3,Early Morning,Yes,Yes,I study regularly/Weekly.,No,Tuition
+21,Female,Second Year,3,"Time management, Study habits",3,Yes,Yes,5,Early Morning,Yes,Yes,I study regularly/Weekly.,Yes,Business / Freelancing
+21,Male,First Year,3.7,"Study habits, Teacher quality",4,Yes,Yes,1,Late Night,Yes,Yes,I study only on the exam week.,Yes,Business / Freelancing
+24,Male,Third year,3.2,"Time management, Peer relationships",5,Yes,Yes,4,Late Night,Yes,Yes,I study only before the exam night.,Yes,None
+20,Female,First Year,3.4,"Time management, Study habits",4,Yes,Yes,3,Late Night,Yes,No,I study only before the exam night.,No,Tuition
+21,Female,First Year,2,"Time management, Study habits",5,Yes,Yes,2,Late Night,Yes,No,I study only before the exam night.,Yes,None
+22,Male,Fourth Year,3.4,"Time management, Teacher quality",4,Yes,Yes,4,Late Night,Yes,Yes,I study only on the exam week.,Yes,"Tuition, Part Time Job"
+22,Male,First Year,3.2,"Time management, Teacher quality",4,Yes,Yes,3,Late Night,No,Yes,I study regularly/Weekly.,Yes,None
+21,Female,First Year,3.4,"Time management, Study habits",5,Yes,Yes,4,Late Night,Yes,Yes,I study only on the exam week.,Yes,Business / Freelancing
+23,Male,Second Year,3.8,"Time management, Study habits",4,Yes,Yes,1,Early Morning,Yes,Yes,I study only on the exam week.,Yes,None
+22,Male,Third year,3.7,"Time management, Teacher quality",3,No,Yes,3,Early Morning,Yes,Yes,I study only before the exam night.,No,None
+22,Female,Third year,3.4,"Time management, Study habits",5,Yes,Yes,4,Early Morning,Yes,Yes,I study only on the exam week.,No,"Tuition, Part Time Job"
+23,Female,Fourth Year,3,"Study habits, Teacher quality",4,Yes,Yes,1,Early Morning,No,Yes,I study only before the exam night.,Yes,Tuition
+24,Male,Fourth Year,2.6,"Time management, Peer relationships",5,Yes,Yes,5,Early Morning,Yes,Yes,I study only on the exam week.,No,None
+24,Male,Fourth Year,3.7,"Study habits, Family support",5,Yes,Yes,3,Late Night,No,Yes,I study regularly/Weekly.,Yes,Tuition
+23,Male,Third year,3.5,"Study habits, Family support",3,No,Yes,4,Late Night,Yes,Yes,I study only on the exam week.,No,None
+22,Female,First Year,3.6,"Time management, Teacher quality",4,No,Yes,4,Late Night,Yes,Yes,I study regularly/Weekly.,Yes,Tuition
+23,Male,Third year,3.1,"Time management, Study habits",3,Yes,Yes,4,Late Night,No,Yes,I study regularly/Weekly.,No,None
+21,Female,First Year,3,"Time management, Family support",5,Yes,Yes,5,Early Morning,Yes,No,I study regularly/Weekly.,Yes,Tuition
+22,Male,First Year,3.2,"Study habits, Teacher quality",5,Yes,Yes,3,Early Morning,No,Yes,I study only on the exam week.,Yes,None
+22,Female,Second Year,2.9,"Time management, Study habits",5,Yes,Yes,1,Late Night,Yes,Yes,I study only on the exam week.,No,None
+23,Female,Second Year,3.3,"Time management, Teacher quality",3,No,Yes,1,Late Night,No,No,I study only before the exam night.,No,Tuition
+23,Male,Third year,3.3,"Time management, Teacher quality",5,Yes,Yes,2,Late Night,No,No,I study regularly/Weekly.,No,None
+23,Female,More than that,3.3,"Study habits, Teacher quality",4,Yes,Yes,1,Late Night,No,No,I study only before the exam night.,Yes,Tuition
+20,Female,First Year,3.1,"Time management, Teacher quality",3,Yes,Yes,4,Late Night,Yes,No,I study only on the exam week.,Yes,None
+21,Female,Fourth Year,4,"Time management, Teacher quality",5,Yes,Yes,1,Late Night,Yes,Yes,I study only before the exam night.,No,None
+22,Female,Second Year,3.3,"Time management, Teacher quality",5,Yes,No,4,Late Night,Yes,No,I study regularly/Weekly.,Yes,"Tuition, Part Time Job"
+23,Female,Fourth Year,3.1,"Time management, Study habits",4,Yes,Yes,4,Early Morning,Yes,Yes,I study only on the exam week.,Yes,Tuition
+25,Male,Fourth Year,3,"Time management, Study habits",5,Yes,Yes,4,Late Night,Yes,No,I study only on the exam week.,Yes,Tuition
+23,Male,Fourth Year,3.6,"Study habits, Teacher quality",2,Yes,No,1,Late Night,No,Yes,I study only on the exam week.,Yes,Tuition
+21,Male,Second Year,3.3,"Study habits, Teacher quality",3,Yes,Yes,4,Late Night,Yes,No,I study only on the exam week.,No,None
+24,Male,Fourth Year,3.6,"Time management, Study habits",1,No,Yes,2,Late Night,No,Yes,I study only on the exam week.,No,Tuition
+24,Female,Fourth Year,2.8,"Teacher quality, Family support",5,Yes,Yes,3,Late Night,Yes,Yes,I study only on the exam week.,Yes,Tuition
+23,Male,Fourth Year,3,"Study habits, Teacher quality",5,Yes,No,1,Late Night,No,Yes,I study only before the exam night.,No,Tuition
+23,Male,Second Year,3.6,"Time management, Study habits",3,Yes,Yes,3,Late Night,No,Yes,I study only on the exam week.,Yes,Business / Freelancing
+23,Female,Fourth Year,3,"Time management, Study habits",5,Yes,Yes,3,Late Night,No,Yes,I study regularly/Weekly.,No,None
+24,Male,Fourth Year,3.5,"Time management, Study habits",4,Yes,No,1,Late Night,No,Yes,I study only on the exam week.,No,Tuition
+21,Male,First Year,3.5,"Time management, Study habits",5,Yes,Yes,2,Late Night,No,Yes,I study only on the exam week.,Yes,None
+24,Female,Fourth Year,3.6,"Study habits, Teacher quality",3,Yes,Yes,1,Late Night,No,Yes,I study only on the exam week.,No,None
+22,Male,First Year,2.7,"Time management, Study habits",4,Yes,Yes,2,Early Morning,Yes,Yes,I study only on the exam week.,No,Tuition
+25,Female,Fourth Year,3.6,"Time management, Teacher quality",3,Yes,Yes,2,Early Morning,No,Yes,I study only on the exam week.,No,None
+25,Male,More than that,3.3,"Time management, Study habits",4,Yes,Yes,4,Early Morning,Yes,Yes,I study regularly/Weekly.,Yes,"Tuition, Business / Freelancing"
+24,Male,Fourth Year,3.4,"Study habits, Peer relationships",3,Yes,Yes,2,Late Night,Yes,No,I study only before the exam night.,Yes,Tuition
+23,Male,More than that,3.2,"Study habits, Teacher quality",2,Yes,Yes,1,Early Morning,Yes,Yes,I study regularly/Weekly.,Yes,"None, Part Time Job"
+23,Male,First Year,3.1,"Study habits, Peer relationships",3,Yes,Yes,4,Early Morning,Yes,Yes,I study regularly/Weekly.,Yes,None
+24,Male,Third year,3.2,"Time management, Teacher quality",5,Yes,Yes,2,Late Night,Yes,Yes,I study only before the exam night.,No,Part Time Job
+21,Female,Second Year,3.1,"Time management, Study habits",5,Yes,Yes,3,Late Night,No,Yes,I study only on the exam week.,No,None
+24,Female,Fourth Year,3.1,"Time management, Study habits",4,Yes,Yes,3,Early Morning,Yes,Yes,I study only before the exam night.,No,None
+25,Male,Fourth Year,3,"Time management, Family support",5,Yes,Yes,4,Late Night,Yes,Yes,I study only on the exam week.,Yes,Tuition
+23,Male,Fourth Year,3.9,"Time management, Study habits",5,Yes,No,2,Late Night,Yes,Yes,I study regularly/Weekly.,No,None
+20,Female,First Year,3.3,"Time management, Study habits",5,Yes,Yes,1,Late Night,Yes,No,I study only on the exam week.,No,None
+25,Male,Fourth Year,3.8,"Time management, Teacher quality",3,No,No,4,Late Night,No,Yes,I study regularly/Weekly.,Yes,"Tuition, Business / Freelancing"
+20,Female,First Year,3.1,"Time management, Study habits",5,No,Yes,5,Late Night,Yes,No,I study only before the exam night.,Yes,Tuition
+22,Male,Second Year,3.4,"Time management, Teacher quality",5,Yes,No,1,Late Night,Yes,Yes,I study only on the exam week.,Yes,Tuition
+24,Female,Fourth Year,2.7,"Study habits, Teacher quality",3,Yes,Yes,2,Late Night,Yes,Yes,I study only on the exam week.,Yes,News presenter
+22,Female,Second Year,3.6,"Teacher quality, Family support",3,No,Yes,4,Late Night,Yes,Yes,I study regularly/Weekly.,Yes,None
+23,Male,Third year,3,"Time management, Study habits",3,No,Yes,4,Late Night,Yes,No,I study only on the exam week.,Yes,"None, Tuition"
+26,Female,More than that,3.4,"Study habits, Peer relationships",4,Yes,Yes,3,Late Night,Yes,No,I study only before the exam night.,No,Tuition
+20,Male,First Year,3.7,"Time management, Teacher quality",4,Yes,Yes,5,Late Night,No,No,I study only on the exam week.,Yes,Business / Freelancing
+22,Male,First Year,3,"Study habits, Peer relationships",4,Yes,No,1,Early Morning,No,No,I study only before the exam night.,No,None
+23,Male,Second Year,2.9,"Time management, Family support",5,No,Yes,3,Late Night,Yes,Yes,I study only on the exam week.,No,Tuition
+22,Male,First Year,2.9,"Time management, Teacher quality",4,Yes,Yes,5,Late Night,Yes,Yes,I study only before the exam night.,Yes,None
+22,Male,Second Year,3,"Time management, Teacher quality",4,Yes,Yes,3,Early Morning,No,Yes,I study only before the exam night.,No,"Tuition, Part Time Job"
+23,Male,Third year,3.2,"Time management, Study habits",4,Yes,Yes,1,Late Night,No,No,I study only on the exam week.,Yes,Tuition
+25,Female,Fourth Year,3.8,"Time management, Teacher quality",5,Yes,Yes,5,Early Morning,No,Yes,I study regularly/Weekly.,Yes,Full time job
+22,Female,First Year,3,"Time management, Study habits",4,Yes,Yes,4,Early Morning,Yes,Yes,I study only on the exam week.,No,None
+26,Male,Third year,3.3,"Time management, Study habits",2,Yes,Yes,3,Late Night,Yes,Yes,I study only on the exam week.,Yes,Part Time Job
+22,Female,Second Year,3.4,"Time management, Study habits",4,Yes,Yes,1,Early Morning,Yes,No,I study regularly/Weekly.,No,None
+20,Female,Second Year,3.5,"Time management, Study habits",4,Yes,Yes,2,Late Night,No,Yes,I study regularly/Weekly.,Yes,Tuition
+21,Male,Third year,3.4,"Teacher quality, Peer relationships",5,Yes,Yes,1,Early Morning,No,Yes,I study only before the exam night.,No,None
+20,Female,First Year,3,"Study habits, Family support",3,Yes,Yes,4,Late Night,No,Yes,I study only on the exam week.,No,None
+27,Male,More than that,3.1,"Time management, Study habits",5,No,Yes,1,Early Morning,No,Yes,I study regularly/Weekly.,Yes,None
+23,Female,Third year,3.9,"Study habits, Teacher quality",5,Yes,Yes,1,Early Morning,No,Yes,I study only on the exam week.,No,None
+26,Male,More than that,3.1,"Study habits, Family support",3,Yes,No,3,Late Night,No,Yes,I study only on the exam week.,Yes,Part Time Job
+29,Male,Fourth Year,2.3,"Study habits, Teacher quality",5,Yes,Yes,1,Early Morning,Yes,Yes,I study only on the exam week.,No,Part Time Job
+20,Female,First Year,3,"Time management, Family support",5,Yes,Yes,5,Late Night,Yes,No,I study regularly/Weekly.,Yes,Business / Freelancing
+22,Female,First Year,3.9,"Time management, Study habits",3,No,Yes,4,Late Night,No,No,I study regularly/Weekly.,Yes,Tuition
+22,Female,Fourth Year,3.3,"Study habits, Teacher quality",4,No,No,2,Early Morning,Yes,No,I study only before the exam night.,Yes,Tuition
+21,Female,First Year,3.8,"Study habits, Family support",2,Yes,Yes,4,Early Morning,No,No,I study regularly/Weekly.,No,Tuition
+21,Male,First Year,2.9,"Time management, Teacher quality",5,Yes,Yes,2,Late Night,Yes,Yes,I study regularly/Weekly.,No,None
+30,Male,More than that,2.5,"Time management, Study habits",4,Yes,Yes,3,Early Morning,No,No,I study only on the exam week.,No,Business / Freelancing
+23,Female,Fourth Year,3.6,"Time management, Study habits",4,Yes,Yes,4,Early Morning,No,No,I study regularly/Weekly.,No,None
+25,Female,More than that,3.4,"Time management, Study habits",4,Yes,Yes,1,Late Night,No,No,I study only on the exam week.,Yes,Part Time Job
+23,Male,Fourth Year,3.1,"Time management, Study habits",5,Yes,Yes,2,Late Night,Yes,No,I study only on the exam week.,Yes,None
+24,Male,Fourth Year,2.9,"Time management, Study habits",4,Yes,Yes,3,Late Night,Yes,Yes,I study only before the exam night.,No,Tuition
+23,Male,Fourth Year,2.9,"Time management, Teacher quality",3,Yes,Yes,3,Late Night,Yes,Yes,I study only before the exam night.,Yes,Part Time Job
+25,Female,Fourth Year,3.2,"Time management, Teacher quality",3,No,Yes,2,Late Night,No,No,I study only on the exam week.,No,None
+24,Female,Fourth Year,3.4,"Teacher quality, Peer relationships",5,Yes,Yes,2,Early Morning,Yes,Yes,I study only on the exam week.,Yes,None
+23,Female,First Year,3.1,"Time management, Teacher quality",3,No,Yes,5,Late Night,Yes,No,I study regularly/Weekly.,Yes,I'm on a full time job
+22,Female,Third year,3.8,"Study habits, Teacher quality",4,Yes,Yes,3,Late Night,No,No,I study regularly/Weekly.,No,None
+21,Male,First Year,4,"Time management, Teacher quality",4,Yes,Yes,2,Late Night,Yes,No,I study only on the exam week.,Yes,None
+21,Female,First Year,3.8,"Time management, Peer relationships",4,Yes,Yes,5,Late Night,No,No,I study regularly/Weekly.,Yes,Tuition
+20,Male,Second Year,3,"Time management, Study habits",5,Yes,Yes,3,Late Night,Yes,Yes,I study only on the exam week.,Yes,None
+24,Male,Fourth Year,2.7,"Time management, Teacher quality",5,Yes,Yes,2,Late Night,Yes,No,I study only on the exam week.,Yes,Part Time Job
+19,Male,First Year,4,"Time management, Teacher quality",5,Yes,Yes,1,Late Night,Yes,Yes,I study only on the exam week.,No,None
+23,Male,Second Year,2.5,"Study habits, Teacher quality",3,No,Yes,4,Late Night,No,No,I study only on the exam week.,Yes,None
+26,Male,Fourth Year,3.4,"Time management, Teacher quality",4,Yes,Yes,3,Early Morning,No,Yes,I study only before the exam night.,Yes,None
+23,Female,Fourth Year,2.7,"Study habits, Teacher quality",3,Yes,Yes,1,Late Night,Yes,No,I study only on the exam week.,Yes,Business / Freelancing
+20,Male,Second Year,2.9,"Teacher quality, Peer relationships",4,Yes,No,2,Late Night,Yes,Yes,I study regularly/Weekly.,No,None
+22,Male,Second Year,2.9,"Time management, Peer relationships",4,Yes,Yes,1,Early Morning,Yes,No,I study only on the exam week.,No,Tuition
+19,Female,First Year,3.3,"Time management, Study habits",4,Yes,Yes,2,Late Night,Yes,Yes,I study regularly/Weekly.,No,Tuition
+23,Female,Second Year,3.7,"Time management, Teacher quality",3,Yes,Yes,1,Late Night,No,Yes,I study only before the exam night.,No,None
+22,Male,Third year,3,"Study habits, Family support",4,Yes,Yes,5,Early Morning,No,Yes,I study regularly/Weekly.,No,None
+23,Male,Third year,3,"Study habits, Peer relationships",4,Yes,Yes,4,Late Night,No,Yes,I study regularly/Weekly.,No,Pharmacy technician
+24,Female,Third year,3.9,"Study habits, Teacher quality",3,Yes,Yes,5,Early Morning,No,Yes,I study regularly/Weekly.,Yes,None
+22,Male,Third year,3.1,"Time management, Study habits",3,No,Yes,3,Late Night,No,No,I study only on the exam week.,No,Part Time Job
+22,Female,Third year,3.4,"Study habits, Family support",5,Yes,Yes,5,Late Night,Yes,Yes,I study regularly/Weekly.,Yes,Tuition
+20,Female,First Year,3.9,"Study habits, Family support",4,Yes,Yes,5,Early Morning,Yes,Yes,I study regularly/Weekly.,No,None
+23,Female,Third year,3.8,"Time management, Study habits",3,Yes,Yes,3,Late Night,Yes,Yes,I study regularly/Weekly.,Yes,None
+21,Female,Second Year,3.5,"Time management, Study habits",5,Yes,Yes,5,Late Night,Yes,Yes,I study only on the exam week.,Yes,Tuition
+22,Male,Third year,3.7,"Study habits, Peer relationships",3,No,No,2,Late Night,No,No,I study only on the exam week.,Yes,None
+23,Male,Third year,2.8,"Time management, Teacher quality",4,Yes,Yes,3,Early Morning,No,Yes,I study only on the exam week.,No,None
+21,Female,First Year,4,"Time management, Study habits",3,No,Yes,5,Early Morning,No,No,I study only on the exam week.,Yes,None
+22,Female,Second Year,3.4,"Study habits, Family support",4,Yes,Yes,3,Late Night,No,No,I study only on the exam week.,Yes,Tuition
+21,Female,First Year,3.8,"Study habits, Teacher quality",4,Yes,Yes,4,Late Night,No,Yes,I study only on the exam week.,No,None
+24,Female,Fourth Year,3.4,"Study habits, Teacher quality",5,Yes,Yes,5,Early Morning,Yes,Yes,I study only on the exam week.,No,None
+23,Male,Fourth Year,3.8,"Time management, Study habits",5,Yes,Yes,2,Late Night,No,Yes,I study only on the exam week.,Yes,Tuition
+24,Male,Fourth Year,3.9,"Time management, Study habits",4,Yes,Yes,2,Late Night,No,No,I study regularly/Weekly.,Yes,Tuition
+20,Female,First Year,3.6,"Time management, Study habits",3,No,Yes,1,Early Morning,No,No,I study regularly/Weekly.,No,None
+19,Female,First Year,3.4,"Time management, Study habits",4,No,Yes,3,Late Night,Yes,No,I study regularly/Weekly.,No,None
+26,Female,More than that,2.5,"Time management, Teacher quality",4,Yes,Yes,2,Late Night,No,No,I study only on the exam week.,No,None
+25,Male,More than that,3.1,"Time management, Family support",5,Yes,No,4,Late Night,Yes,Yes,I study only before the exam night.,Yes,Business / Freelancing
+21,Male,First Year,3.2,"Time management, Study habits",3,Yes,No,1,Early Morning,No,No,I study regularly/Weekly.,Yes,Tuition
+23,Female,Second Year,3.9,"Teacher quality, Family support",4,Yes,Yes,5,Late Night,Yes,Yes,I study only on the exam week.,No,Business / Freelancing
+21,Male,Second Year,3.6,"Study habits, Teacher quality",5,Yes,Yes,5,Late Night,Yes,No,I study regularly/Weekly.,Yes,None
+23,Female,Second Year,3.9,"Study habits, Teacher quality",5,Yes,Yes,3,Early Morning,Yes,No,I study only on the exam week.,Yes,None
+25,Male,Fourth Year,3.7,"Time management, Study habits",5,Yes,Yes,2,Late Night,No,Yes,I study only on the exam week.,Yes,"Tuition, Business / Freelancing"
+25,Male,Fourth Year,3.4,"Time management, Family support",3,Yes,Yes,1,Early Morning,No,No,I study only before the exam night.,No,Tuition
+22,Female,Second Year,3.1,"Time management, Family support",3,Yes,Yes,3,Early Morning,Yes,Yes,I study only on the exam week.,No,Tuition
+24,Male,Fourth Year,3.7,"Teacher quality, Family support",4,Yes,No,2,Early Morning,Yes,No,I study only on the exam week.,No,Tuition
+24,Male,Fourth Year,3,"Time management, Teacher quality",5,Yes,Yes,2,Late Night,Yes,No,I study only before the exam night.,Yes,Tuition
+23,Female,Fourth Year,3.3,"Study habits, Teacher quality",4,Yes,Yes,2,Late Night,Yes,No,I study regularly/Weekly.,Yes,Tuition
+25,Male,Fourth Year,2,"Time management, Study habits",5,Yes,No,1,Late Night,No,No,I study only before the exam night.,Yes,Tuition
+25,Female,Fourth Year,3.7,"Time management, Teacher quality",4,Yes,Yes,3,Late Night,Yes,Yes,I study only on the exam week.,Yes,None
+20,Female,First Year,2.6,"Time management, Study habits",4,Yes,Yes,3,Late Night,Yes,Yes,I study only on the exam week.,Yes,"None, Tuition"
+25,Female,More than that,3,"Time management, Teacher quality",5,Yes,No,1,Late Night,Yes,Yes,I study only on the exam week.,No,None
+24,Male,First Year,3,"Study habits, Teacher quality",5,No,No,5,Late Night,Yes,Yes,I study only on the exam week.,Yes,None
+25,Female,Fourth Year,3,"Time management, Study habits",5,Yes,Yes,4,Early Morning,Yes,Yes,I study only on the exam week.,Yes,Tuition
+24,Female,Fourth Year,3.3,"Time management, Study habits",4,Yes,Yes,2,Late Night,Yes,No,I study only on the exam week.,Yes,Tuition
+22,Male,Second Year,3.9,"Teacher quality, Peer relationships",1,No,No,1,Early Morning,No,No,I study only before the exam night.,Yes,Caretaking and Bong serving
+23,Male,Fourth Year,3.4,"Time management, Study habits",4,Yes,Yes,1,Early Morning,No,No,I study only before the exam night.,No,None
+22,Male,Third year,3.6,"Time management, Teacher quality",3,No,Yes,4,Late Night,No,No,I study only on the exam week.,Yes,None
+23,Male,Fourth Year,3.1,"Study habits, Teacher quality",4,Yes,No,1,Early Morning,No,Yes,I study only before the exam night.,No,Tuition
+22,Male,Second Year,3.3,"Study habits, Teacher quality",4,Yes,No,3,Late Night,Yes,Yes,I study regularly/Weekly.,Yes,Tuition
+25,Male,More than that,3,"Time management, Study habits",4,Yes,Yes,2,Late Night,No,Yes,I study only on the exam week.,No,Part Time Job
+21,Male,First Year,3.9,"Time management, Peer relationships",2,No,Yes,5,Early Morning,Yes,Yes,I study regularly/Weekly.,Yes,None
+22,Female,Third year,3.5,"Time management, Study habits",5,Yes,Yes,4,Late Night,No,No,I study only before the exam night.,Yes,None
+24,Male,Third year,3,"Time management, Teacher quality",5,Yes,No,3,Late Night,Yes,No,I study regularly/Weekly.,No,Tuition
+22,Male,Third year,3.4,"Time management, Study habits",4,Yes,Yes,5,Late Night,No,Yes,I study regularly/Weekly.,No,Tuition
+23,Male,Third year,3.3,"Study habits, Teacher quality",5,Yes,Yes,2,Early Morning,No,No,I study only on the exam week.,Yes,Tuition
+23,Male,Third year,2.5,"Study habits, Peer relationships",5,Yes,Yes,1,Late Night,Yes,No,I study only on the exam week.,Yes,None
+21,Male,Second Year,3.4,"Time management, Study habits",3,No,Yes,3,Late Night,No,No,I study only on the exam week.,No,Part Time Job
+23,Female,Third year,3.7,"Time management, Teacher quality",4,Yes,No,2,Early Morning,No,No,I study only on the exam week.,Yes,Tuition
+20,Female,Third year,3.9,"Time management, Peer relationships",4,Yes,Yes,3,Early Morning,No,Yes,I study regularly/Weekly.,No,None
+23,Female,Third year,3.1,"Time management, Study habits",5,Yes,No,3,Late Night,Yes,Yes,I study only on the exam week.,Yes,"Tuition, Business / Freelancing"
+23,Male,Fourth Year,3.3,"Time management, Study habits",4,Yes,Yes,5,Early Morning,No,Yes,I study regularly/Weekly.,Yes,Part Time Job
+23,Female,Fourth Year,3.1,"Time management, Study habits",3,Yes,Yes,2,Early Morning,No,Yes,I study only on the exam week.,Yes,None
+21,Male,First Year,3.9,"Time management, Teacher quality",3,Yes,Yes,4,Late Night,No,No,I study only on the exam week.,Yes,Tuition
+27,Male,More than that,3.1,"Teacher quality, Peer relationships",4,Yes,Yes,3,Late Night,Yes,No,I study regularly/Weekly.,Yes,Tuition
+22,Female,Third year,3.9,"Time management, Study habits",4,Yes,No,1,Late Night,Yes,Yes,I study regularly/Weekly.,No,None
+22,Male,Fourth Year,3.4,"Study habits, Teacher quality",3,No,Yes,3,Early Morning,No,Yes,I study only on the exam week.,No,"Tuition, Business / Freelancing"
+21,Male,First Year,2.5,"Study habits, Teacher quality",5,Yes,Yes,3,Early Morning,Yes,Yes,I study regularly/Weekly.,No,None
+21,Male,First Year,3,"Time management, Teacher quality",4,Yes,Yes,3,Early Morning,Yes,No,I study regularly/Weekly.,Yes,"None, Tuition"
+24,Male,Fourth Year,3.5,"Time management, Teacher quality",4,No,Yes,1,Early Morning,No,No,I study only on the exam week.,Yes,Tuition
+23,Male,Fourth Year,3.1,"Study habits, Family support",3,No,Yes,4,Early Morning,No,No,I study only on the exam week.,No,None
+22,Female,Third year,3.5,"Study habits, Peer relationships",3,No,Yes,4,Late Night,No,Yes,I study only on the exam week.,No,None
+21,Female,First Year,3.6,"Family support, Peer relationships",5,Yes,Yes,5,Late Night,Yes,Yes,I study only on the exam week.,No,Tuition
+23,Male,Fourth Year,3.4,"Time management, Study habits",3,No,No,3,Late Night,No,No,I study only on the exam week.,Yes,"Tuition, Business / Freelancing"
+22,Male,Second Year,3.7,"Time management, Study habits",3,No,Yes,5,Early Morning,No,No,I study regularly/Weekly.,No,None
+23,Female,Second Year,3.6,"Time management, Teacher quality",5,Yes,Yes,4,Early Morning,Yes,Yes,I study only on the exam week.,Yes,Tuition
+20,Male,First Year,3.7,"Time management, Peer relationships",4,Yes,Yes,4,Late Night,No,Yes,I study regularly/Weekly.,Yes,None
+20,Male,Third year,2.5,"Time management, Study habits",4,No,No,3,Late Night,No,No,I study only before the exam night.,Yes,Tuition
+23,Female,Third year,3,"Study habits, Teacher quality",4,Yes,Yes,3,Early Morning,No,Yes,I study only on the exam week.,No,None
